@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 #Mac file system
-*/.DS_store
+*/.DS_Store
 
 #config file 
 */config.py
