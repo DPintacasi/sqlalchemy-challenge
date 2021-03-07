@@ -133,3 +133,5 @@ dmypy.json
 
 #config file 
 */config.py
+
+*.vscode
